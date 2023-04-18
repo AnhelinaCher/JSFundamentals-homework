@@ -1,0 +1,19 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.container {
+    max-width: 1300px;
+    margin: auto;
+}
